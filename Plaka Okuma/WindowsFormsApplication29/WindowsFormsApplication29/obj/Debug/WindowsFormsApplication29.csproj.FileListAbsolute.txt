@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication29\WindowsFormsApplication29\bin\Debug\WindowsFormsApplication29.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication29\WindowsFormsApplication29\bin\Debug\x64\liblept172.dll
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication29\WindowsFormsApplication29\bin\Debug\x64\libtesseract304.dll
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication29\WindowsFormsApplication29\bin\Debug\x86\liblept172.dll
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication29\WindowsFormsApplication29\bin\Debug\x86\libtesseract304.dll
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication29\WindowsFormsApplication29\bin\Debug\WindowsFormsApplication29.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication29\WindowsFormsApplication29\bin\Debug\WindowsFormsApplication29.pdb
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication29\WindowsFormsApplication29\bin\Debug\Tesseract.dll
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication29\WindowsFormsApplication29\bin\Debug\Tesseract.xml
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.pdb
